@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @King-Hot
+- 👋 Hi, I’m @KingHot
 - 👀 I’m interested in how to coding well.
 - 🌱 I’m currently learning basic things to be a programmer
 - 📫 How to reach me professional programmer?
